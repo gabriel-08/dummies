@@ -1,4 +1,4 @@
-Used to practice git commands.
+**Used to practice git commands.**
 
 Github notes
 * Install
